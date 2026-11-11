@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scrapeless Web Unlocker"
+  short_description: "Extract content from rendered or protected pages"
+  default_prompt: "Use $web-unlocker to extract https://example.com as Markdown."

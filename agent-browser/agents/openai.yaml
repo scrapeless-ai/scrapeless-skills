@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scrapeless Agent Browser"
+  short_description: "Automate websites with persistent cloud browsers"
+  default_prompt: "Use $agent-browser to open https://example.com and capture a screenshot."

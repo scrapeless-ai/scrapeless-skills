@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scrapeless Crawl"
+  short_description: "Collect multiple website pages with crawl controls"
+  default_prompt: "Use $crawl to collect up to 10 pages from https://example.com as Markdown."

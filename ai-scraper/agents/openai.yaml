@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scrapeless AI Scraper"
+  short_description: "Collect AI platform answers and citations"
+  default_prompt: "Use $ai-scraper to query ChatGPT about web scraping and return its answer with citations."

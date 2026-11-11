@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scrapeless Proxy"
+  short_description: "Generate regional authenticated proxy URLs"
+  default_prompt: "Use $proxy to generate a US residential proxy URL using the Americas gateway."

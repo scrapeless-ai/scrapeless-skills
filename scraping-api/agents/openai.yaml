@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scrapeless Scraping API"
+  short_description: "Fetch Google, Amazon, and TikTok structured data"
+  default_prompt: "Use $scraping-api to search Google for coffee and return the result JSON."
